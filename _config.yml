@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Genius-Traveler
+title: KRISHAN
 
 # Your name to show in the footer
-author: Some Person
+author: KRISHAN
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,9 +22,8 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - My Tech Blog: "https://techgenzonic.online"
+  Contact Me: "https://techgenzonic.online"
 
 ################
 # --- Logo --- #
